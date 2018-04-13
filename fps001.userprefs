@@ -1,13 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GunFire.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GetAmmo.js">
     <Files>
-      <File FileName="Assets\Scripts\GunFire.js" Line="9" Column="3" />
-      <File FileName="Assets\Scripts\HandGunDamage.js" Line="17" Column="2" />
-      <File FileName="Assets\Scripts\EnemyScript.js" Line="2" Column="1" />
-      <File FileName="Assets\Scripts\CrossAnimate.js" Line="13" Column="3" />
-      <File FileName="Assets\Scripts\GlobalAmmo.js" Line="9" Column="38" />
-      <File FileName="Assets\Scripts\GetAmmo.js" Line="4" Column="2" />
+      <File FileName="Assets\Scripts\GunFire.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HandGunDamage.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CrossAnimate.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GlobalAmmo.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GetAmmo.js" Line="6" Column="22" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
